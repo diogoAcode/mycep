@@ -20,8 +20,23 @@ const getCepById = (cepId) => {
     });
 };
 
+const searchCepByName = (cepName) => {
+  return getCeps()
+    .then((cepsData) => {
+      const filtredProds = cepsData.filter((cep) =>
+        cep.title.toLowerCase().includes(cepName.toLowerCase())
+      );
+
+      return filtredProds;
+    })
+    .catch((error) => {
+      throw new Error("Não foi possível encontrar Ceps pelo nome");
+    });
+};
+
 
 module.exports = {
   getCepById,
-  getCeps
+  getCeps,
+  searchCepByName
 }

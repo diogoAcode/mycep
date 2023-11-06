@@ -22,5 +22,19 @@ router.get("/:id", (req, res) => {
     .catch((error) => res.status(500).send());
 });
 
+router.get('/search/:name', (req, res) => {
+    const cepName = req.params.name;
+    cepController.searchCepByName(cepName)
+        .then((ceps) => {
+            if(ceps){
+                res.status(200).send(ceps)
+            } else {
+                res.status(404).send('Jhon Travoltas time!!!!')
+            }
+        })
+        .catch((error) => res.status(500).send())
+});
+
+
 
 module.exports = router;
