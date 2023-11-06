@@ -1,16 +1,27 @@
-const filesystem = require('fs').promises;
-const path = require('path');
+const filesystem = require("fs").promises;
+const path = require("path");
 
-const cepFilePath = path.join(__dirname, '../data/cep.json');
+const cepFilePath = path.join(__dirname, "../data/cep.json");
 
-const getCep = () => {
-  return filesystem.readFile(cepFilePath, 'utf-8')
-    .then((cepData) => JSON.parse(cepData))
+const getCeps = () => {
+  return filesystem
+    .readFile(cepFilePath, "utf-8")
+    .then((cepsData) => JSON.parse(cepsData))
     .catch((error) => {
-      throw new Error('Não foi possíel ler o arquivo');
+      throw new Error("Não foi possível ler o arquivo de Ceps!");
     });
 };
 
+const getCepById = (cepId) => {
+  return getCeps()
+    .then((allCeps) => allCeps.find((cep) => cep.id === parseInt(cepId)))
+    .catch((error) => {
+      throw new Error("Não foi possível encontrar o Cep");
+    });
+};
+
+
 module.exports = {
-  getCep,
+  getCepById,
+  getCeps
 }

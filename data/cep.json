@@ -1,12 +1,71 @@
-{
-  "cep": "01001-000",
-  "logradouro": "Praça da Sé",
-  "complemento": "lado ímpar",
-  "bairro": "Sé",
-  "localidade": "São Paulo",
-  "uf": "SP",
-  "ibge": "3550308",
-  "gia": "1004",
-  "ddd": "11",
-  "siafi": "7107"
-}
+[
+  {
+    "id": "1",
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  },
+
+  {
+    "id": "2",
+    "cep": "20540-134",
+    "logradouro": "Rua Pereira Nunes",
+    "complemento": "até 209 - lado ímpar",
+    "bairro": "Vila Isabel",
+    "localidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "ibge": "3304557",
+    "gia": "",
+    "ddd": "21",
+    "siafi": "6001"
+  },   
+  
+  {
+    "id": "3",
+    "cep": "22745-005",
+    "logradouro": "Estrada dos Três Rios",
+    "complemento": "de 268 ao fim - lado par",
+    "bairro": "Freguesia (Jacarepaguá)",
+    "localidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "ibge": "3304557",
+    "gia": "",
+    "ddd": "21",
+    "siafi": "6001"
+  },
+ 
+  {
+    "id": "4",
+    "cep": "22041-012",
+    "logradouro": "Rua Santa Clara",
+    "complemento": "de 2 ao fim - lado par",
+    "bairro": "Copacabana",
+    "localidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "ibge": "3304557",
+    "gia": "",
+    "ddd": "21",
+    "siafi": "6001"
+  },
+
+  {
+    "id": "5",
+    "cep": "21043-320",
+    "logradouro": "Rua Nilo Peçanha",
+    "complemento": "",
+    "bairro": "Bonsucesso",
+    "localidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "ibge": "3304557",
+    "gia": "",
+    "ddd": "21",
+    "siafi": "6001"
+  }
+]

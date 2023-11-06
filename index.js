@@ -1,16 +1,20 @@
-const express = require('express');
-const cepRoutes = require('./routes/cepRoutes');
+const express = require("express");
+const categoryRoutes = require("./routes/categoryRoutes");
+const cepRoutes = require("./routes/cepRoutes");
 
 const app = express();
 const port = 3000;
 
-app.get('/', (req, res) => {
-  res.send('DEUS É SEMPRE BOM!');
-  console.log('ponto de entrada');
-})
+app.use(express.json())
 
-app.get('/cep', cepRoutes);
+app.get("/", (req, res) => {
+  res.send("Deus é bom o tempo todo!");
+});
+
+app.use("/categories", categoryRoutes);
+app.use("/ceps", cepRoutes);
+
 
 app.listen(port, () => {
-  console.log('Servidor rodando em http://localhost:' + port);
-})
+  console.log("Servidor rodando em http://localhost:" + port);
+});
