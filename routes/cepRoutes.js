@@ -29,7 +29,7 @@ router.get('/search/:name', (req, res) => {
             if(ceps){
                 res.status(200).send(ceps)
             } else {
-                res.status(404).send('Jhon Travoltas time!!!!')
+                res.status(404).send('Erro 404!!!!')
             }
         })
         .catch((error) => res.status(500).send())

@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2023-11-07T16:13:22.932Z",
+    "method": "GET",
+    "url": "/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:14:57.152Z",
+    "method": "GET",
+    "url": "/ceps",
+    "params": {},
+    "ip": "::1"
+  }
+]
