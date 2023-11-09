@@ -35,6 +35,36 @@ router.get('/search/:name', (req, res) => {
         .catch((error) => res.status(500).send())
 });
 
+router.put("/:id", (req, res) => {
+  const idRecebido = req.params.id;
+  const updatedData = req.body;
+
+  console.log("Id recebido: " + idRecebido);
+  console.log("Informações recebidas: " + updatedData.bairro);
+
+  cepController
+    .updateCep(idRecebido, updatedData)
+    .then(() => {
+      res.status(200).send("Produto atualizado com sucesso!");
+    })
+    .catch((error) => {
+      res.send(error);
+    });
+});
+
+router.delete("/:id", (req, res) => {
+  const idRecebido = req.params.id;
+
+  cepController
+    .deleteCep(idRecebido)
+    .then((deletedCep) => {
+      res.status(200).json(deletedCep);
+    })
+    .catch((error) => {
+      res.status(404).send("Cep não encontrado");
+    });
+});
+
 
 
 module.exports = router;

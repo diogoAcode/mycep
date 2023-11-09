@@ -12,5 +12,1727 @@
     "url": "/ceps",
     "params": {},
     "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:25:32.023Z",
+    "method": "POST",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:27:34.449Z",
+    "method": "GET",
+    "url": "/ceps/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:27:41.368Z",
+    "method": "GET",
+    "url": "/cep/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:27:55.395Z",
+    "method": "GET",
+    "url": "/ceps/RJ",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:28:02.321Z",
+    "method": "GET",
+    "url": "/ceps/20540134",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:28:07.625Z",
+    "method": "GET",
+    "url": "/ceps/20540-134",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:36:24.982Z",
+    "method": "GET",
+    "url": "/lugar/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:36:29.067Z",
+    "method": "GET",
+    "url": "/lugar/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:36:31.348Z",
+    "method": "GET",
+    "url": "/lugar/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:36:32.493Z",
+    "method": "GET",
+    "url": "/ceps",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:36:47.185Z",
+    "method": "GET",
+    "url": "/lugar/Vila%20Isabel",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:41:13.636Z",
+    "method": "GET",
+    "url": "/ceps/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:41:17.404Z",
+    "method": "GET",
+    "url": "/cep/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:41:21.994Z",
+    "method": "GET",
+    "url": "/lugar/Vila%20Isabel",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T16:42:30.753Z",
+    "method": "GET",
+    "url": "/lugar/Vila%20Isabel",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:11:13.108Z",
+    "method": "GET",
+    "url": "/cep/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:11:41.281Z",
+    "method": "GET",
+    "url": "/ceps/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:12:02.146Z",
+    "method": "GET",
+    "url": "/ceps/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:12:13.217Z",
+    "method": "GET",
+    "url": "/ceps/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:22:48.240Z",
+    "method": "GET",
+    "url": "/ceps/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:29:17.050Z",
+    "method": "GET",
+    "url": "/ceps/rj",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:29:42.322Z",
+    "method": "GET",
+    "url": "/ceps/search/rj",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:31:51.613Z",
+    "method": "GET",
+    "url": "/ceps/search/rj",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:35:12.776Z",
+    "method": "GET",
+    "url": "/ceps/search/rj",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:36:06.208Z",
+    "method": "GET",
+    "url": "/ceps/search/sp",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:37:19.901Z",
+    "method": "GET",
+    "url": "/lugar/Vila%20Isabel",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:37:26.462Z",
+    "method": "GET",
+    "url": "/lugar/rj",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:37:46.300Z",
+    "method": "GET",
+    "url": "/lugar/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:37:47.417Z",
+    "method": "GET",
+    "url": "/ceps",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:39:44.047Z",
+    "method": "PUT",
+    "url": "/ceps",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:40:16.341Z",
+    "method": "GET",
+    "url": "/ceps",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:43:11.538Z",
+    "method": "PUT",
+    "url": "/ceps/3",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:43:28.728Z",
+    "method": "PUT",
+    "url": "/ceps/3",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:48:41.243Z",
+    "method": "PUT",
+    "url": "/ceps/3",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:50:02.592Z",
+    "method": "PUT",
+    "url": "/ceps/3",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:50:26.743Z",
+    "method": "GET",
+    "url": "/ceps/3",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T21:59:15.678Z",
+    "method": "DELETE",
+    "url": "/ceps/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:00:20.375Z",
+    "method": "DELETE",
+    "url": "/ceps/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:00:40.562Z",
+    "method": "GET",
+    "url": "/ceps",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:06:47.102Z",
+    "method": "POST",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:08:12.079Z",
+    "method": "GET",
+    "url": "/ceps/search/tijuca",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:08:30.160Z",
+    "method": "GET",
+    "url": "/ceps/search/centro",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:08:38.234Z",
+    "method": "GET",
+    "url": "/ceps/search/rj",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:14:54.993Z",
+    "method": "GET",
+    "url": "/ceps/search/21587900",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:15:08.167Z",
+    "method": "GET",
+    "url": "/ceps/search/22745005",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:15:37.957Z",
+    "method": "GET",
+    "url": "/ceps/search/20745005",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:16:32.778Z",
+    "method": "GET",
+    "url": "/ceps/search/rj",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:18:26.520Z",
+    "method": "GET",
+    "url": "/ceps/search/20745005",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:18:51.112Z",
+    "method": "GET",
+    "url": "/ceps/search/20540-134",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:22:48.211Z",
+    "method": "GET",
+    "url": "/ceps/search/20540134",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:24:36.676Z",
+    "method": "GET",
+    "url": "/ceps/search/2231",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:25:38.279Z",
+    "method": "GET",
+    "url": "/ceps/search/22041-012",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:26:18.847Z",
+    "method": "GET",
+    "url": "/ceps/search/22",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:26:27.191Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-07T22:26:50.358Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:17:06.779Z",
+    "method": "GET",
+    "url": "/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:17:06.824Z",
+    "method": "GET",
+    "url": "/favicon.ico",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:32:54.455Z",
+    "method": "GET",
+    "url": "/ceps/search/21",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:32:57.010Z",
+    "method": "PUT",
+    "url": "/ceps/update/5",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:33:03.341Z",
+    "method": "POST",
+    "url": "/ceps/create",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:33:07.483Z",
+    "method": "PUT",
+    "url": "/ceps/update/5",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:33:14.351Z",
+    "method": "PUT",
+    "url": "/ceps/update/5",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:33:19.319Z",
+    "method": "DELETE",
+    "url": "/ceps/delete/5",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:33:27.052Z",
+    "method": "DELETE",
+    "url": "/ceps/delete/5",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:49:05.348Z",
+    "method": "GET",
+    "url": "/ceps/search/21043-320",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:49:16.879Z",
+    "method": "GET",
+    "url": "/ceps/search/21043-320",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:49:23.218Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:49:29.865Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:50:29.735Z",
+    "method": "GET",
+    "url": "/ceps/search/33",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:50:32.814Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:52:54.635Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:54:02.375Z",
+    "method": "GET",
+    "url": "/ceps/search/22",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:56:29.017Z",
+    "method": "GET",
+    "url": "/ceps/search/22",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:59:04.046Z",
+    "method": "GET",
+    "url": "/ceps/search/22",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-08T03:59:15.920Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T18:35:29.795Z",
+    "method": "GET",
+    "url": "/ws",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T18:35:42.546Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T18:38:10.472Z",
+    "method": "GET",
+    "url": "/ceps/search/22",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T18:38:53.356Z",
+    "method": "GET",
+    "url": "/ceps/search/22",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T18:38:59.057Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T18:42:52.087Z",
+    "method": "GET",
+    "url": "/ceps/search/22",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T18:42:59.486Z",
+    "method": "GET",
+    "url": "/ceps/search/19",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T18:57:12.602Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T19:03:54.234Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:05:24.778Z",
+    "method": "GET",
+    "url": "/ceps/search/22",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:10:59.884Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:11:01.565Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:11:03.442Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:11:07.604Z",
+    "method": "DELETE",
+    "url": "/categories/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:12:12.927Z",
+    "method": "GET",
+    "url": "/ceps/search/20",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:12:26.526Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:12:28.988Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:14:54.521Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:15:10.198Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:15:17.960Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:16:05.710Z",
+    "method": "DELETE",
+    "url": "/categories/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:16:31.659Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:16:31.668Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:18:29.888Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:19:15.187Z",
+    "method": "DELETE",
+    "url": "/categories/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:20:29.004Z",
+    "method": "DELETE",
+    "url": "/categories/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:23:52.264Z",
+    "method": "DELETE",
+    "url": "/categories/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:24:19.957Z",
+    "method": "DELETE",
+    "url": "/categories/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:26:29.153Z",
+    "method": "DELETE",
+    "url": "/categories/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:31:46.378Z",
+    "method": "DELETE",
+    "url": "/categories/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:34:25.232Z",
+    "method": "DELETE",
+    "url": "/categories/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:34:35.781Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:34:52.777Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:34:52.789Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:35:01.784Z",
+    "method": "DELETE",
+    "url": "/categories/7",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:35:01.794Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:39:27.191Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:39:37.196Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:39:42.188Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:39:43.190Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:39:50.199Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:40:00.190Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:40:23.195Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:40:27.199Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:40:29.186Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:40:30.191Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:40:42.188Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:40:46.189Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:41:14.195Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:41:57.193Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:41:58.191Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:42:02.186Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:42:03.185Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:42:11.188Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:42:20.198Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:42:30.193Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:42:35.195Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:44:25.201Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:44:25.209Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:44:54.184Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:45:05.188Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:45:14.194Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:46:26.187Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:46:30.184Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:46:34.185Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:47:16.196Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:48:39.197Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:48:46.191Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:48:47.187Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:48:49.186Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:48:51.198Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:48:52.195Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:48:54.193Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:48:55.186Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:50:24.192Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:53:47.678Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:53:47.687Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:53:48.027Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:53:48.078Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:53:48.083Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:54:56.193Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:55:04.970Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:55:04.981Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:55:49.155Z",
+    "method": "POST",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T21:55:49.163Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:02:54.956Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:03:55.190Z",
+    "method": "PUT",
+    "url": "/categories/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:05:03.465Z",
+    "method": "PUT",
+    "url": "/categories/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:05:19.925Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:08:01.532Z",
+    "method": "PUT",
+    "url": "/categories/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:09:38.291Z",
+    "method": "PUT",
+    "url": "/categories/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:11:41.202Z",
+    "method": "PUT",
+    "url": "/categories/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:13:23.166Z",
+    "method": "PUT",
+    "url": "/categories/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:16:11.189Z",
+    "method": "PUT",
+    "url": "/categories/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:17:16.189Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:20:03.199Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:20:03.207Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:20:21.201Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:20:25.188Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:20:40.194Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:20:44.191Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:21:00.195Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:21:05.187Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:21:06.197Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:21:08.195Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:21:11.189Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:21:19.195Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:21:23.186Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:22:01.196Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:22:03.199Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:23:25.189Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:23:26.199Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:23:51.199Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:23:56.200Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:24:26.199Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:24:40.199Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:24:53.198Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:25:35.200Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:25:39.186Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:25:42.195Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:25:49.192Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:25:54.197Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:25:57.188Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:26:01.186Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:26:04.190Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:26:07.196Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:26:10.196Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:26:15.323Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:26:15.336Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:26:59.193Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:27:01.192Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:27:13.190Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:27:18.197Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:00.675Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:00.685Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:00.973Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:00.984Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:02.770Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:02.779Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:03.045Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:03.056Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:13.906Z",
+    "method": "PUT",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:35.642Z",
+    "method": "POST",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:35.650Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:41.558Z",
+    "method": "DELETE",
+    "url": "/categories/5",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:41.568Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:43.359Z",
+    "method": "DELETE",
+    "url": "/categories/6",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:43.367Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:44.965Z",
+    "method": "DELETE",
+    "url": "/categories/6",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:45.587Z",
+    "method": "DELETE",
+    "url": "/categories/6",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:46.090Z",
+    "method": "DELETE",
+    "url": "/categories/6",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:49.733Z",
+    "method": "POST",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:49.740Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:58.959Z",
+    "method": "POST",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:32:58.967Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:34:33.191Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:34:53.196Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:34:54.192Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:36:26.195Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:36:31.184Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:36:33.198Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:38:18.185Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:38:32.107Z",
+    "method": "PUT",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:38:34.450Z",
+    "method": "PUT",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:38:38.362Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:38:38.374Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:40:31.402Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:40:31.413Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:40:32.197Z",
+    "method": "GET",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:40:49.989Z",
+    "method": "PUT",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-09T22:41:38.092Z",
+    "method": "PUT",
+    "url": "/categories",
+    "params": {},
+    "ip": "::1"
   }
 ]
